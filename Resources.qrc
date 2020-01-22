@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Ikone/add.png</file>
+        <file>Ikone/cut.png</file>
+        <file>Ikone/file.png</file>
+        <file>Ikone/folder.png</file>
+        <file>Ikone/icons8-save-as-96.png</file>
+        <file>Ikone/paste-clipboard.png</file>
+        <file>Ikone/redo.png</file>
+        <file>Ikone/save.png</file>
+        <file>Ikone/undo.png</file>
+    </qresource>
+</RCC>
